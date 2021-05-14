@@ -5,4 +5,4 @@ While this started to look like I might be able to put something together, I ran
 
 ## Challenge 1:
 
-For this challenge I was asked to print a list of all airports in a particular country. I chose Poland as the country and added an if statement to the for loop to compare the entry in the 4th column to the string "Poland". If the if statement was satisfied, the airport name would be printed. 
+For this challenge I was asked to print a list of all airports in a particular country. I chose Poland as the country and added an if statement to the for loop to compare the entry in the 4th column (row[3]) to the string "Poland". If the if statement was satisfied, the airport name(row [1]) would be printed. 
